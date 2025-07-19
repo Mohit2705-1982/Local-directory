@@ -2,7 +2,7 @@
   "name": "local-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mohit2705-1982.github.io/Local-directory/",
+  "homepage": "https://Mohit2705-1982.github.io/Local-directory/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
